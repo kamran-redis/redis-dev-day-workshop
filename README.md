@@ -1,4 +1,4 @@
-<img src="img/redis-logo-full-color-rgb.png" height=100/><img align="right" src="img/aws-logo-1.jpeg" height=100 />
+<img src="img/redis-logo-full-color-rgb.png" height=100/>
 
 # Matchmaking your way into the leaderboards using Redis Enterprise on AWS
 Hello and thank you for joining this workshop/hands-on lab! We're happy to have you join, so welcome! We hope you will enjoy this workshop and hopefully learn something new. This README will explain how to get started and point you to the exercises and how to perform them. In any case, the instructors will be here to guide you and help you out if you need any assistance or have any questions. Feedback is always appreciated! If you would like more info on the topic of matchmaking feel free to check out Volkan Civelek's excellent (and free!) [e-book on Matchmaking](https://redis.com/docs/the-game-developers-guide-to-matchmaking/) as it contains many interesting topics and best practices around this topic.
